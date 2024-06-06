@@ -6,13 +6,14 @@ export const metadata: Metadata = {
   },
 };
 function BlogMain() {
-  return;
-  <div>
-    <h3>Blog</h3>;
-    <h3>Blog</h3>;
-    <h3>Blog</h3>;
-    <h3>Blog</h3>;
-  </div>;
+  return (
+    <div>
+      <h3>Blog</h3>
+      <h3>Blog</h3>
+      <h3>Blog</h3>
+      <h3>Blog</h3>
+    </div>
+  );
 }
 
 export default BlogMain;
