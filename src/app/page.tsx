@@ -22,6 +22,9 @@ function Home() {
       <Link href="/f1" style={{ fontSize: "30px" }}>
     Folder 1
       </Link>
+      <Link href="/photo-feed" style={{ fontSize: "30px" }}>
+    Foto
+      </Link>
     </div>
   );
 }
