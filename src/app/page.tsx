@@ -7,11 +7,20 @@ function Home() {
       <Link href="/blog" style={{ fontSize: "30px" }}>
         Blog
       </Link>
+      <Link href="/docs" style={{ fontSize: "30px" }}>
+        Docs
+      </Link>
       <Link href="/products" style={{ fontSize: "30px" }}>
         Products
       </Link>
       <Link href="/order-product" style={{ fontSize: "30px" }}>
         Order
+      </Link>
+      <Link href="/complex-dashboard" style={{ fontSize: "30px" }}>
+    Dashboard
+      </Link>
+      <Link href="/f1" style={{ fontSize: "30px" }}>
+    Folder 1
       </Link>
     </div>
   );
