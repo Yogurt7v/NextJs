@@ -1,3 +1,4 @@
+'use client'
 import NotFound from "@/app/not-found"
 
 function getRandomInt (count: number) {
