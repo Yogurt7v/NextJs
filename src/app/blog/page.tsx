@@ -1,9 +1,18 @@
-function Blog () {
-    return (
-        <div className="flex my-0 mx-auto">
-            <h1 className="text-3xl font-bold underline ">Blog</h1>
-        </div>
-    )
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: {
+    absolute: "Blog",
+  },
+};
+function BlogMain() {
+  return;
+  <div>
+    <h3>Blog</h3>;
+    <h3>Blog</h3>;
+    <h3>Blog</h3>;
+    <h3>Blog</h3>;
+  </div>;
 }
 
-export default Blog
+export default BlogMain;
